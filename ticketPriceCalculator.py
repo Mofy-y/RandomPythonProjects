@@ -1,5 +1,4 @@
-#assignment 3
-
+#Ticket Price
 age = int(input("Enter your age: "))
 time_of_day = input("Enter the time of day (morning, afternoon, evening): ").casefold()
 
